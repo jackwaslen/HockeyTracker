@@ -8,14 +8,33 @@
 import SwiftUI
 
 struct ContentView: View {
+    @ObservedObject var viewModel = ViewModel()
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+  
+     
+                TabView {
+                    GameStatsView()
+                        .environmentObject(viewModel)
+                 
+                        .tabItem { Label("Scores", systemImage: "house")
+                                .foregroundColor(.white)
+                          }
+                    // .badge("!")
+                    
+                    PlayerStatsView()
+                        .environmentObject(viewModel)
+                        .tabItem { Label("Stats", systemImage: "newspaper")
+                            .foregroundColor(.white)}
+                        
+                    
+                    StandingsStatsView()
+                        .environmentObject(viewModel)
+                        .tabItem {
+                            Label("Standings", systemImage: "trophy")
+                       
+                        }
+                }
+        
     }
 }
 
