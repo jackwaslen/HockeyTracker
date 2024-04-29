@@ -6,6 +6,7 @@
 
 # Quick Note
 
-I've written several blog posts about this project, breaking down the code and my thought process around it. Check out my medium at [![medium](https://medium.com/@jackwaslen16)
+I've written several blog posts about this project, breaking down the code and my thought process around it. Check out my medium at [medium link](https://medium.com/@jackwaslen16)
+
 
 Fed up with other Hockey Apps, I decided to build one myself. I wanted to it to be clean and simple, while also feeling like it fits in the broader Apple Eco-System.
