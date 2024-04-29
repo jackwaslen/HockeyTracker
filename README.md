@@ -4,13 +4,15 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 
+# Quick Note
+
+I've written several blog posts about this project, breaking down the code and my thought process around it. Check out my medium at [medium link](https://medium.com/@jackwaslen16)
+
 <img src="https://github.com/jackwaslen/HockeyTracker/assets/78742473/d3852935-c243-49eb-9694-35d7ae241219" width=30% height=30%>
 <img src="https://github.com/jackwaslen/HockeyTracker/assets/78742473/0b957efa-97ff-47c6-9d5c-d5db1408f3bc" width=30% height=30%>
 <img src="https://github.com/jackwaslen/HockeyTracker/assets/78742473/7a489dbf-cb4c-4f88-b585-97518296c30b" width=30% height=30%>
 
-# Quick Note
 
-I've written several blog posts about this project, breaking down the code and my thought process around it. Check out my medium at [medium link](https://medium.com/@jackwaslen16)
 
 # Description
 
