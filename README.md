@@ -4,10 +4,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 
-<img src="https://github.com/jackwaslen/HockeyTracker/assets/78742473/d3852935-c243-49eb-9694-35d7ae241219" width=50% height=50%>
-![IMG_7092 (1)](https://github.com/jackwaslen/HockeyTracker/assets/78742473/d3852935-c243-49eb-9694-35d7ae241219)
-![IMG_7093 (1)](https://github.com/jackwaslen/HockeyTracker/assets/78742473/0b957efa-97ff-47c6-9d5c-d5db1408f3bc)
-![IMG_7094 (1)](https://github.com/jackwaslen/HockeyTracker/assets/78742473/7a489dbf-cb4c-4f88-b585-97518296c30b)
+<img src="https://github.com/jackwaslen/HockeyTracker/assets/78742473/d3852935-c243-49eb-9694-35d7ae241219" width=30% height=30%>
+<img src="https://github.com/jackwaslen/HockeyTracker/assets/78742473/0b957efa-97ff-47c6-9d5c-d5db1408f3bc" width=30% height=30%>
+<img src="https://github.com/jackwaslen/HockeyTracker/assets/78742473/7a489dbf-cb4c-4f88-b585-97518296c30b" width=30% height=30%>
 
 # Quick Note
 
